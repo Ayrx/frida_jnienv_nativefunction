@@ -1,0 +1,27 @@
+{
+  "name": "frida_jnienv_nativefunction",
+  "version": "0.1.0",
+  "description": "Frida NativeFunction wrappers around the JNIEnv methods",
+  "main": "lib/index.ts",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@types/frida-gum": "^16.4.1",
+    "typescript": "^4.2.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ayrx/frida_jnienv_nativefunction.git"
+  },
+  "author": "Terry Chia (terrycwk1994@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ayrx/frida_jnienv_nativefunction/issues"
+  },
+  "homepage": "https://github.com/Ayrx/frida_jnienv_nativefunction#readme"
+}
